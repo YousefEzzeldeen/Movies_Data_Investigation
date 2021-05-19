@@ -3,4 +3,5 @@ This data set contains information about 10,000 movies collected from The Movie 
 ### In this report,I'll Explore Some Questions like :
 
 > Do top ratings movies always generate big revenue?
+
 > Do old movies have hihger rating than new ones ?
